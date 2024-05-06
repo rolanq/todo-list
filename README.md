@@ -4,7 +4,7 @@
 
 This is a simple Todo App with all the CRUD operations.
 
-**live demo: [https://wc-react-todo-app.netlify.app/](https://wc-react-todo-app.netlify.app/)**
+**live demo: [Check on netlify](https://main--incredible-bienenstitch-1265a2.netlify.app/)**
 
 ---
 
